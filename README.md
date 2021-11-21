@@ -20,4 +20,4 @@ Ada Boost Classifier is used for modeling.
 
 ## Evaluation Metrics
 
-The f1_score on the validation data (Dec-2016 month) using the Random Forest Classifier is ~0.69.
+The f1_score on the validation data (Dec-2016 month) using the Ada Forest Classifier is ~0.69.
