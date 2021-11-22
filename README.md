@@ -12,14 +12,18 @@ To aid staffing, you are provided with the monthly information for a segment of 
 
 ## Feature Engineering:
 
-1- From the initial inspection of the data, it is quite evident that the data is a time-series data. So, the first task is to convert it to a supervised learning problem by cleaning the data and creating/extracting relevant features (including the target variable).
+1- From the initial inspection of the data, it is quite evident that the data is a time-series data. So, the first task is to convert it to a supervised learning problem by cleaning the data and creating/extracting relevant features(including the target variable) from the existing features.
 
-2- Important features created from the dataset are ‘Service period’, ‘Promoted by’, ‘Last Business Value’, and ‘Attrition’.
+2- Features created from the dataset are ‘Service period’, ‘Promoted by’, ‘Last Business Value’, and ‘Attrition’.
 
+**Service Period** - The total service period of the employee in months
+**Promoted By** - How many levels the employee has been promoted since he/she joined the organization
+**Last Business Value** - Last month's total business value
+**Attrition** - Attrition status in the current/upcoming two quarters
 
 ## Model Building:
 
-Ada Boost Classifier is used for modeling.
+Ada Boost Classifier is used for the final submission.
 
 ## Evaluation Metrics
 
