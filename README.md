@@ -17,8 +17,11 @@ To aid staffing, you are provided with the monthly information for a segment of 
 2- Features created from the dataset are ‘Service period’, ‘Promoted by’, ‘Last Business Value’, and ‘Attrition’.
 
 **Service Period** - The total service period of the employee in months
+
 **Promoted By** - How many levels the employee has been promoted since he/she joined the organization
+
 **Last Business Value** - Last month's total business value
+
 **Attrition** - Attrition status in the current/upcoming two quarters
 
 ## Model Building:
