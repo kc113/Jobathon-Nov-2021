@@ -1,3 +1,5 @@
+# Jobathon Nov21 (Private Leaderboard Rank - 7)
+
 ## Problem Statement:
 
 You are working as a data scientist with HR Department of a large insurance company focused on sales team attrition. Insurance sales teams help insurance companies generate new business by contacting potential customers and selling one or more types of insurance. The department generally sees high attrition and thus staffing becomes a crucial aspect. 
@@ -8,7 +10,6 @@ To aid staffing, you are provided with the monthly information for a segment of 
 2. Tenure information (joining date, Last Date)
 3. Historical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)
 
-**Private Leaderboard Rank - 7**
 
 ## Feature Engineering:
 
